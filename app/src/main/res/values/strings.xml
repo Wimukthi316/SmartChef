@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SmartChef</string>
+
+    <!-- Screen02 Strings -->
+    <string name="screen02_title">Make Your Life Easy With SmartChef</string>
+    <string name="screen02_description">SmartChef makes meal planning, recipe discovery, and grocery shopping effortless. Plan meals, explore recipes, and generate shopping lists—all in one app!</string>
+    <string name="screen02_button_next">NEXT</string>
+
+    <!-- Screen03 Strings -->
+    <string name="screen03_title">Plan your meals. Cook with ease. Enjoy every bite.</string>
+    <string name="screen03_button_get_started">NEXT</string>
+
+    <!-- Register Screen Strings -->
+    <string name="register_title">Get Started with SmartChef</string>
+    <string name="register_description">Your favorite dishes are waiting! Create an account and explore amazing dishes</string>
+    <string name="register_username_hint">Username</string>
+    <string name="register_mobile_hint">Mobile Number</string>
+    <string name="register_email_hint">Email address</string>
+    <string name="register_password_hint">Password</string>
+    <string name="register_confirm_password_hint">Confirm Password</string>
+    <string name="register_button_sign_up">Sign Up</string>
+    <string name="register_sign_in_prompt">Sign In If Already Have an Account</string>
+
+    <!-- Mealplans Screen Strings -->
+    <string name="mealplans_title">Today\'s Meal Plan</string>
+    <string name="mealplans_breakfast">Breakfast\n\nFull English breakfast</string>
+    <string name="mealplans_lunch">Lunch\n\nRamen Noodles</string>
+    <string name="mealplans_dinner">Dinner\n\nSteak</string>
+    <string name="mealplans_button_next">NEXT</string>
+</resources>
